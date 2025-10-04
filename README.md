@@ -1,41 +1,57 @@
-# aify Terms and Conditions of Use
+# Terms of Use – aify: AI Photo Generator & Art
+Last Updated: [2025/10/4]
 
-## 1. Terms
-By accessing this app, you are agreeing to be bound by these app Terms and Conditions of Use and agree that you are responsible for compliance with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this app. The materials contained in this app are protected by copyright and trademark law.
+# 1. Acceptance of Terms
+By downloading, installing, or using the aify application (the "Application"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Application.
 
-## 2. Use License
-Permission is granted to temporarily download one copy of the materials in aify for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-* modify or copy the materials;
-* use the materials for any commercial purpose or for any public display;
-* attempt to reverse engineer any software contained in aify;
-* remove any copyright or other proprietary notations from the materials; or
-* transfer the materials to another person or "mirror" the materials on any other server.
+# 2. License Grant
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the Application on a device you own or control, strictly in accordance with these Terms.
+You may not:
+- Copy, modify, reverse engineer, or create derivative works of the Application.
+- Rent, lease, sell, or sublicense the Application.
+- Use the Application for illegal, harmful, or unauthorized purposes.
 
-This license shall automatically terminate if you violate any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether in printed or electronic format.
+# 3. Photo Upload & AI Processing
+The Application allows you to upload photos for AI-powered transformations (anime, cartoon, portraits, avatars, fantasy art, “future baby,” and similar effects). To protect your privacy:
+- Uploaded photos are processed securely and deleted within 24 hours.
+- No biometric identification or facial recognition is performed.
+- We do not retain, resell, or share your photos with third parties.
+- Uploaded images are used strictly for generating AI art results.
 
-## 3. Disclaimer
-All the materials in aify are provided "as is". aify makes no warranties, whether expressed or implied, and therefore disclaims all other warranties. Furthermore, aify does not make any representations concerning the accuracy or reliability of the use of the materials on its app or otherwise relating to such materials or any sites linked to this app.
+# 4. Subscriptions & Payments
+- Premium features of the Application may require a subscription or in-app purchase:
+- Payments are processed securely via Apple App Store.
+- Subscriptions automatically renew unless cancelled before the renewal date.
+- You can manage or cancel your subscription in your App Store account settings.
+- Refunds are subject to Apple’s policies.
 
-## 4. Limitations
-aify or its suppliers will not be held accountable for any damages that will arise with the use or inability to use the materials on aify, even if aify or an authorized representative of this app has been notified, orally or in writing, of the possibility of such damage. Some jurisdictions do not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+# 5. Intellectual Property
+All rights, title, and interest in the Application, including trademarks, content, and code, are owned by Tunahan Aktay or its licensors. You may not use these without prior written permission.
 
-## 5. Revisions and Errata
-The materials appearing on aify may include technical, typographical, or photographic errors. aify does not warrant that any of the materials on its app are accurate, complete, or current. aify may change the materials contained on its app at any time without notice. aify does not make any commitment to update the materials.
+# 6. User Conduct
+You agree not to misuse the Application. Prohibited uses include:
+- Uploading harmful, abusive, or unlawful content.
+- Uploading content that violates the rights of others (e.g., copyrighted materials without permission).
+- Using the Application to create offensive, harmful, or misleading content.
+- Attempting to disrupt or abuse the Application’s services.
 
-## 6. Links
-aify has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by aify of the site. The use of any linked website is at the user's own risk.
+In cases of abnormal usage — such as nonstop automated generations intended to overload the system — we reserve the right to impose restrictions on an hourly, weekly, or monthly basis.
 
-## 7. App Terms of Use Modifications
-aify may revise these Terms of Use for its app at any time without prior notice. By using this app, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+# 7. Disclaimer of Warranties
+The Application is provided “as is” and “as available” without warranties of any kind. We do not guarantee uninterrupted or error-free service, nor do we guarantee the artistic accuracy of AI-generated results.
 
-## 8. Your Privacy
-Please read our Privacy Policy.
+# 8. Limitation of Liability
+To the maximum extent permitted by law, aify shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Application.
 
-## 9. Governing Law
-Any claim related to aify shall be governed by the laws of Turkey without regard to its conflict of law provisions.
+# 9. Termination
+We may suspend or terminate your access to the Application at any time if you violate these Terms. Upon termination, you must cease using and delete the Application.
 
-## 10. Image Transformation Services
-aify provides users with the ability to transform photos into stylized artworks. While we strive to provide high-quality transformations, we cannot guarantee specific results. The transformed images are intended for personal use only and remain subject to the Use License terms stated above.
+# 10. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of Türkiye, without regard to conflict of law principles. Any disputes shall be resolved in the courts of İstanbul, Türkiye.
 
-## 11. Credits and Purchases
-aify may offer a credit-based system for image transformations. Purchase of credits is final and non-refundable except as required by applicable law. Credits have no monetary value outside of the aify app and cannot be transferred, exchanged, or refunded.
+# 11. Changes to Terms
+We may update these Terms of Use from time to time. Updates will be posted on this page with a revised “Last Updated” date. Your continued use of the Application after changes means you accept the new Terms.
+
+# 12. Contact Information
+If you have any questions about these Terms, please contact us:
+Email: app.aify@gmail.com
