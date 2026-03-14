@@ -1,8 +1,8 @@
-# Terms of Use – aify: AI Photo Generator & Art
-Last Updated: [2025/10/4]
+# Terms of Use – aixy
+Last Updated: [2026/3/15]
 
 # 1. Acceptance of Terms
-By downloading, installing, or using the aify application (the "Application"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Application.
+By downloading, installing, or using the aixy application (the "Application"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Application.
 
 # 2. License Grant
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the Application on a device you own or control, strictly in accordance with these Terms.
@@ -42,7 +42,7 @@ In cases of abnormal usage — such as nonstop automated generations intended to
 The Application is provided “as is” and “as available” without warranties of any kind. We do not guarantee uninterrupted or error-free service, nor do we guarantee the artistic accuracy of AI-generated results.
 
 # 8. Limitation of Liability
-To the maximum extent permitted by law, aify shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Application.
+To the maximum extent permitted by law, aixy shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Application.
 
 # 9. Termination
 We may suspend or terminate your access to the Application at any time if you violate these Terms. Upon termination, you must cease using and delete the Application.
@@ -55,4 +55,4 @@ We may update these Terms of Use from time to time. Updates will be posted on th
 
 # 12. Contact Information
 If you have any questions about these Terms, please contact us:
-Email: app.aify@gmail.com
+Email: tunahanaktay.apps@gmail.com
