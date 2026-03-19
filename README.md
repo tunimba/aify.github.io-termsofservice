@@ -13,7 +13,6 @@ You may not:
 
 # 3. Photo Upload & AI Processing
 The Application allows you to upload photos for AI-powered transformations (anime, cartoon, portraits, avatars, fantasy art and similar effects). To protect your privacy:
-- Uploaded photos are processed securely and deleted within 24 hours.
 - No biometric identification or facial recognition is performed.
 - We do not retain, resell, or share your photos with third parties.
 - Uploaded images are used strictly for generating AI art results.
@@ -22,7 +21,6 @@ The Application allows you to upload photos for AI-powered transformations (anim
 - Premium features of the Application may require a subscription or in-app purchase:
 - Payments are processed securely via Apple App Store.
 - Subscriptions automatically renew unless cancelled before the renewal date.
-- Weekly subscription plans include a 3-day free trial (if the user has not previously used a trial). After the trial period ends, the weekly subscription fee will automatically apply.
 - You can manage or cancel your subscription in your App Store account settings.
 - Refunds are subject to Apple’s policies.
 
