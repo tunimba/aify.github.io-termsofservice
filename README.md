@@ -12,7 +12,7 @@ You may not:
 - Use the Application for illegal, harmful, or unauthorized purposes.
 
 # 3. Photo Upload & AI Processing
-The Application allows you to upload photos for AI-powered transformations (anime, cartoon, portraits, avatars, fantasy art, “future baby,” and similar effects). To protect your privacy:
+The Application allows you to upload photos for AI-powered transformations (anime, cartoon, portraits, avatars, fantasy art and similar effects). To protect your privacy:
 - Uploaded photos are processed securely and deleted within 24 hours.
 - No biometric identification or facial recognition is performed.
 - We do not retain, resell, or share your photos with third parties.
